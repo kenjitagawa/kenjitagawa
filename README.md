@@ -1,5 +1,8 @@
 ### Hi there 👋
-[![My stats](https://github-readme-stats.vercel.app/api?username=kenjitagawa&count_private=true&show_icons=true?theme=synthwave)](https://github.com/kenjitagawa/github-readme-stats)
+[![My stats](https://github-readme-stats.vercel.app/api?username=kenjitagawa&count_private=true&show_icons=true&theme=radical)](https://github.com/kenjitagawa/github-readme-stats)
+
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kenjitagawa&repo=FlaskBlog)](https://github.com/kenjitagawa/FlaskBlog)
 
 <!--
 **kenjitagawa/kenjitagawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
