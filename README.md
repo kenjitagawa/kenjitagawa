@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on:
   - Automating Windows tasks with C#
   - Automating Linux/MacOS Tasks with C++
-  - Scripting with Powershell, BASH and the one and only ** Python! **
+  - Scripting with Powershell, BASH and the one and only **Python!**
 
 - 🌱 I’m currently learning:
   - Studying for my CCNA
