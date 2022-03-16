@@ -26,21 +26,21 @@
 
 
 ## Check out some of these: 🥇
-<a href="https://github-readme-stats.vercel.app/api/pin/?username=kenjitagawa&repo=FlaskBlog&theme=synthwave">
+<a href="https://github.com/kenjitagawa/FlaskBlog">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kenjitagawa&repo=FlaskBlog&theme=synthwave&show_owner=true" />
 </a>
 
-<a href="https://github-readme-stats.vercel.app/api/pin/?username=kenjitagawa&repo=reddit_bot&theme=synthwave">
+<a href="https://github.com/kenjitagawa/reddit_bot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kenjitagawa&repo=reddit_bot&theme=synthwave&show_owner=true" />
 </a>
 
 ---
 
-<a href="https://github-readme-stats.vercel.app/api/pin/?username=kenjitagawa&repo=notion_auto&theme=synthwave">
+<a href="https://github.com/kenjitagawa/notion_auto">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kenjitagawa&repo=notion_auto&theme=synthwave&show_owner=true" />
 </a>
 
-<a href="https://github-readme-stats.vercel.app/api/pin/?username=kenjitagawa&repo=WindowsKeyFinder&theme=synthwave">
+<a href="https://github.com/kenjitagawa/WindowsKeyFinder">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kenjitagawa&repo=WindowsKeyFinder&theme=synthwave&show_owner=true" />
 </a>
 
