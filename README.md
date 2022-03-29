@@ -11,12 +11,17 @@
   - Scripting with Powershell, BASH and the one and only **Python!**
 
 - 🌱 I’m currently learning:
-  - Studying for my CCNA
-  - Studying for Software Engineering classes
+  - Studying for CCNA
+  - Studying for AZ-900
   - React.js
 
 - 👯 I’m looking to collaborate on:
-  - Essentially, any project! 
+  - Essentially, any project!
+
+
+- ⚡ Fun fact:
+  - I'm an IT Support Specialist. I write code and scripts to automate tasks for me and my co-workers, I fix computers and laptops, and of course, I troubleshoot software when they fail to provide what they are supposed to! 🚀
+  - I ❤️ Python
 
 
 ## Here are my top languages: 🚀
