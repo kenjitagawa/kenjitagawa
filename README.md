@@ -7,13 +7,14 @@
 
 - 🔭 I’m currently working on:
   - Automating Windows tasks with C#
-  - Automating Linux/MacOS Tasks with C++
+  - Automating Linux/MacOS *Small* Tasks with C++
   - Scripting with Powershell, BASH and the one and only **Python!**
 
 - 🌱 I’m currently learning:
   - Studying for CCNA
   - Studying for AZ-900
   - React.js
+  - C++
 
 - 👯 I’m looking to collaborate on:
   - Essentially, any project!
