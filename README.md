@@ -20,3 +20,7 @@
 <a href="https://github.com/kenjitagawa/kenjitagawa">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenjitagawa&hide=html,css&theme=synthwave" />
 </a>
+<a href="https://github.com/kenjitagawa/kenjitagawa">
+  <img align="center" src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" />
+</a>
+
